@@ -1,4 +1,5 @@
-country code;postal code;place name;admin name1;admin code1;admin name2;admin code2;admin name3;admin code3;latitude;longitude;accuracy;coordinates
+sep=;
+country code;postal code;place name;admin name1;admin code1;admin name2;admin code2;admin name3;admin code3;latitude;longitude;accuracy;coordinates,,
 DE;10179;Berlin;Berlin;BE;;00;Berlin, Stadt;11000;52.5122;13.4164;6;52.5122,13.4164
 DE;10249;Berlin Friedrichshain;Berlin;BE;;00;Berlin, Stadt;11000;52.5238;13.4428;6;52.5238,13.4428
 DE;10627;Berlin;Berlin;BE;;00;Berlin, Stadt;11000;52.508;13.303;6;52.508,13.303
